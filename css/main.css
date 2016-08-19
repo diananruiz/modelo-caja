@@ -1,0 +1,19 @@
+div { 
+	padding: 20px 6px 50px 60px;
+	border-top: 14px solid #ac00e6;
+	border-right: 8px solid #ac00e6;
+	border-bottom: 14px solid #ac00e6;
+	border-left: 8px solid	#ac00e6;  
+	margin:100px 60px 40px 60px;
+	width: 850px;
+	background-color: #ffd9b3; 
+}
+
+p {
+	border:1.5px dashed;
+	padding: 12px;
+	background-color: white; 
+	text-align: center;
+	font-size: 14px;
+	margin: 10px;
+}
